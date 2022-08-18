@@ -1,0 +1,23 @@
+#navbar {
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
+  height: 150px;
+}
+
+#navbar a {
+  padding: 10px;
+}
+
+#gallery .row {
+  flex-direction: column;
+}
+
+#features {
+  flex-direction: column;
+}
+
+.box {
+  width: 100%;
+  padding: 3rem;
+}

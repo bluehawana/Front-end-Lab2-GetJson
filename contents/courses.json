@@ -1,0 +1,38 @@
+[
+	{
+		"image": "./images/courses/01.jpg",
+		"title": "JavaScript development",
+		"description": "Lorem ipsum dolor sit amet consectetur adipisicing, elit. Blanditiis, ducimus.",
+		"price": "69,99"
+	},
+	{
+		"image": "./images/courses/02.jpg",
+		"title": ".NET development",
+		"description": "Lorem ipsum dolor sit amet consectetur adipisicing, elit. Blanditiis, ducimus.",
+		"price": "59,99"
+	},
+	{
+		"image": "./images/courses/03.jpg",
+		"title": "Front-end development",
+		"description": "Lorem ipsum dolor sit amet consectetur adipisicing, elit. Blanditiis, ducimus.",
+		"price": "49,99"
+	},
+	{
+		"image": "./images/courses/04.jpg",
+		"title": "Testing",
+		"description": "Lorem ipsum dolor sit amet consectetur adipisicing, elit. Blanditiis, ducimus.",
+		"price": "39,99"
+	},
+	{
+		"image": "./images/courses/05.jpg",
+		"title": "Java Development",
+		"description": "Lorem ipsum dolor sit amet consectetur adipisicing, elit. Blanditiis, ducimus.",
+		"price": "29,99"
+	},
+	{
+		"image": "./images/courses/06.jpg",
+		"title": "UX UI design",
+		"description": "Lorem ipsum dolor sit amet consectetur adipisicing, elit. Blanditiis, ducimus.",
+		"price": "19,99"
+	}
+]
